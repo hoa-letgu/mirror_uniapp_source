@@ -1,0 +1,21 @@
+{
+    "name" : "Mirror Guide",
+    "appid" : "__UNI__GAA0C388",
+    "description" : "Mirror",
+    "versionName" : "1.0.0",
+    "versionCode" : "100",
+    "transformPx" : false,
+    "app-plus" : {
+        "usingComponents" : true,
+        "distribute" : {
+            "android" : {
+                "minSdkVersion" : 23,
+                "permissions" : []
+            },
+            "ios" : {
+                "dSYMs" : false
+            }
+        }
+    },
+    "vueVersion" : "3"
+}

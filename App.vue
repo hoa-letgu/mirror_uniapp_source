@@ -1,0 +1,2 @@
+<script>export default {onLaunch(){console.log('Rubik 3×3 Guide started')}};</script>
+<style>page{background:#0b1220;color:#e5edf8;font-family:Arial,sans-serif} .card{background:#192437;border-radius:16rpx;padding:28rpx;margin:20rpx 0}.muted{color:#a7b6ce}.btn{background:#3b82f6;color:white;border-radius:12rpx;margin:14rpx 0}.tag{color:#93c5fd;font-size:24rpx}.h{font-size:36rpx;font-weight:bold}.formula{font-size:30rpx;color:#facc15;margin-top:12rpx}</style>
